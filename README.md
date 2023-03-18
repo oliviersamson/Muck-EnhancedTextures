@@ -11,6 +11,8 @@ This mod is dependant on Terrain's SettingsApi mod.
 
 If you're like me and are a bit annoyed at how his new settings menu feel like, get my [BetterSettingsApi](https://muck.thunderstore.io/package/MrBoxxy/BetterSettingsApi/ "Thunderstore") mod for a feel closer to the original game.
 
+To report a problem with this mod or for a feature request, please raise an issue on [GitHub](https://github.com/oliviersamson/Muck-EnhancedTextures/issues "GitHub")
+
 ## What was done
 
 Added a new graphic's setting: "Use Enhanced Textures" (ON by default) which can be used to control whether you want to vanilla textures or the enhanced textures from this texture pack.
