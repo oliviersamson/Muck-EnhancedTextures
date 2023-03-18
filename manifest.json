@@ -1,0 +1,7 @@
+{
+  "name": "EnhancedTextures",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/oliviersamson/Muck-EnhancedTextures",
+  "description": "Texture Pack for Muck! AI upscaled textures for 2X resolution! The first ever texture pack for Muck!",
+  "dependencies": [ "BepInEx-BepInExPack_Muck-5.4.1101", "Terrain-SettingsApi-1.1.1" ]
+}
